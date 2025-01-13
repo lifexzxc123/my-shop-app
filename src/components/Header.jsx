@@ -4,7 +4,6 @@ import HomeIcon from '../assets/home.svg';
 import MenuIcon from '../assets/menu.svg';
 import CartIcon from '../assets/cart.svg';
 
-
  function Header() {
    return (
      <header className="header">
