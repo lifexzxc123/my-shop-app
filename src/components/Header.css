@@ -1,0 +1,17 @@
+.header {
+    background-color: #808080;
+    width: 100%; /* Занимает всю ширину контейнера */
+    display: flex; /* Использовать flex для выравнивания элементов */
+    justify-content: flex-start; /* Выравнивание по левому краю */
+    align-items: center; /* Выравнивание по вертикали по центру */
+    padding: 15px 0;
+}
+
+.header-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+    margin-left: 30px;
+    margin-bottom: 0;
+}
