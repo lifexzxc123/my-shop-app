@@ -1,10 +1,9 @@
 .app-container {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
 }
 
 .main-content {
-  flex: 1; /* Занимает всё свободное место */
+  flex: 1;
   padding: 20px;
 }
